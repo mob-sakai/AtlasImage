@@ -1,0 +1,11 @@
+{
+  "name": "SpriteAtlasExtensions",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob-sakai/SpriteAtlasExtensions.git"
+  },
+  "src": "Assets/SpriteAtlasExtensions",
+  "unity": "/Applications/Unity2017.1.0p5/Unity2017.1.0p5.app/Contents/MacOS/Unity",
+  "license": "MIT"
+}
