@@ -1,11 +1,11 @@
 {
-  "name": "SpriteAtlasExtensions",
+  "name": "AtlasImage",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mob-sakai/SpriteAtlasExtensions.git"
+    "url": "git+https://github.com/mob-sakai/AtlasImage.git"
   },
-  "src": "Assets/SpriteAtlasExtensions",
+  "src": "Assets/Coffee/UIExtensions/AtlasImage",
   "unity": "/Applications/Unity2017.1.0p5/Unity2017.1.0p5.app/Contents/MacOS/Unity",
   "license": "MIT"
 }
