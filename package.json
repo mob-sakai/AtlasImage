@@ -6,6 +6,6 @@
     "url": "git+https://github.com/mob-sakai/AtlasImage.git"
   },
   "src": "Assets/Coffee/UIExtensions/AtlasImage",
-  "unity": "/Applications/Unity2017.1.0p5/Unity2017.1.0p5.app/Contents/MacOS/Unity",
+  "unity": "2017.1",
   "license": "MIT"
 }
