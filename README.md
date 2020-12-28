@@ -104,8 +104,6 @@ Or, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to insta
 
 ## Usage
 
-1. Download `AtlasImage.unitypackage` from [Releases](https://github.com/mob-sakai/AtlasImage/releases).
-1. Import the package into your Unity project. Go to `Assets > Import Package > Custom Package` and select `AtlasImage.unitypackage`.
 1. Enable SpriteAtlas. Go to `Edit > Project Settings > Editor`, and change the sprite packing mode from Disabled to either:
     * Enabled for Builds, when you want to use packing for builds only and not when in Play mode.
     * Always Enabled when you want the packed Sprite to resolve its texture from the Sprite Atlas during Play mode, but resolve its texture from the original Texture during Edit mode.
