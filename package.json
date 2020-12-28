@@ -1,0 +1,24 @@
+{
+  "name": "com.coffee.atlas-image",
+  "displayName": "UI Atlas Image",
+  "description": "A graphic component use SpriteAtlas for uGUI.\nIn addition, add useful sprite selector and border editor to the inspector.",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob-sakai/AtlasImage.git"
+  },
+  "author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
+  "keywords": [
+    "ui"
+  ],
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "UI Atlas Image Demo",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
